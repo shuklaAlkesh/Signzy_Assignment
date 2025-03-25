@@ -1,5 +1,5 @@
 // config.js
 
-const BASE_URL = 'http://localhost:5000/api'; // Backend URL
+const BASE_URL = 'https://signzy-assignment-vflb.onrender.com/api'; // Backend URL
 
 export default BASE_URL;
